@@ -1,0 +1,11 @@
+*.cfg
+*.sync/
+*.vcfg
+*.txt
+*.ekv
+*.scr
+*.vdf
+!autoexec.cfg
+!listenserver.cfg
+!cfgs/*
+!*/MultiActionBinds/*
