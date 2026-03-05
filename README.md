@@ -1,11 +1,11 @@
-# CS2-Config
+# CS:GO-Config
 
-Personal config files for Counter-Strike 2, written entirely by yours truly
+Personal config files for Counter-Strike: Global Offensive, written entirely by yours truly
 ---
 
 To be installed in:
 ```
-Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+Steam\steamapps\common\csgo legacy\csgo\cfg
 ```
 ---
 ```

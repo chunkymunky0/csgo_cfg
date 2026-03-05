@@ -5,6 +5,8 @@
 *.ekv
 *.scr
 *.vdf
+*.kv3
+*.rc
 !autoexec.cfg
 !listenserver.cfg
 !cfgs/*
